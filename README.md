@@ -26,3 +26,17 @@ A front-end project that simulates a simple YouTube-style interface in Arabic (R
 - Responsive layout with RTL support and custom Arabic font  
 
 ### 📂 Project Structure
+YouTuby/
+index.html  watch.html  channel.html  search.html  …
+css/        (bootstrap.rtl.css, index.css, watch.css, search.css, …)
+js/         (jquery, bootstrap, index.js, watch.js, search.js)
+img/        (logos, thumbnails, icons)
+video/      (hsoub.webm, caption.vtt)
+fonts/      (Cairo-Regular.ttf)
+
+### ▶️ How to Run
+- Open `index.html` directly in your browser  
+- Or use **Live Server** extension in VS Code for better experience  
+
+### 🖼️ Screenshots (optional)
+> Add screenshots or GIFs here for Home and Watch pages.
