@@ -38,5 +38,3 @@ fonts/      (Cairo-Regular.ttf)
 - Open `index.html` directly in your browser  
 - Or use **Live Server** extension in VS Code for better experience  
 
-### 🖼️ Screenshots (optional)
-> Add screenshots or GIFs here for Home and Watch pages.
