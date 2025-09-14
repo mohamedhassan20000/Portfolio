@@ -28,10 +28,15 @@ A front-end project that simulates a simple YouTube-style interface in Arabic (R
 ### 📂 Project Structure
 YouTuby/
 index.html  watch.html  channel.html  search.html  …
+
 css/        (bootstrap.rtl.css, index.css, watch.css, search.css, …)
+
 js/         (jquery, bootstrap, index.js, watch.js, search.js)
+
 img/        (logos, thumbnails, icons)
+
 video/      (hsoub.webm, caption.vtt)
+
 fonts/      (Cairo-Regular.ttf)
 
 ### ▶️ How to Run
